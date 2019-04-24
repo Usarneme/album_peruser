@@ -1,0 +1,34 @@
+{
+  "name": "album_view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Usarneme",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/preset-env": "^7.4.3",
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "connect-flash": "*",
+    "cookie-parser": "*",
+    "ejs": "*",
+    "express": "*",
+    "express-session": "*",
+    "express-validator": "*",
+    "firebase": "*",
+    "morgan": "*",
+    "multer": "*",
+    "path": "*"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.4.3",
+    "@babel/core": "^7.4.3",
+    "babel-core": "^6.26.3"
+  }
+}
